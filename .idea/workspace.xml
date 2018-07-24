@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="324a27ff-1b0f-45ab-9154-1fa940fcb943" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/MiniDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/behavior/fly/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/behavior/fly/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/behavior/fly/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/behavior/quack/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/behavior/quack/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/behavior/quack/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy Pattern/src/behavior/quack/Squeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strategy Pattern/Duck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strategy Pattern/MallardDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strategy Pattern/MiniDuckSimulator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strategy Pattern/behavior/fly/FlyBehavior.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strategy Pattern/behavior/fly/FlyNoWay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strategy Pattern/behavior/fly/FlyWithWings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strategy Pattern/behavior/quack/MuteQuack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strategy Pattern/behavior/quack/Quack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strategy Pattern/behavior/quack/QuackBehavior.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strategy Pattern/behavior/quack/Squeak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,20 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Duck.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Strategy Pattern/src/Duck.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="25">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -92,6 +58,7 @@
         <option value="$PROJECT_DIR$/Strategy Pattern/src/MallardDuck.java" />
         <option value="$PROJECT_DIR$/Strategy Pattern/src/MiniDuckSimulator.java" />
         <option value="$PROJECT_DIR$/Strategy Pattern/src/Duck.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -122,17 +89,6 @@
             <path>
               <item name="Design Patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design Patterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="Strategy Pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="Strategy Pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -248,15 +204,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532446268727</updated>
-      <workItem from="1532446275320" duration="1887000" />
+      <workItem from="1532446275320" duration="3856000" />
     </task>
+    <task id="LOCAL-00001" summary="Strategy Pattern Complete">
+      <created>1532448226689</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532448226689</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1887000" />
+    <option name="totallyTimeSpent" value="3856000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="364" y="83" width="1358" height="941" extended-state="0" />
+    <frame x="497" y="58" width="1358" height="941" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -294,6 +258,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Strategy Pattern Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strategy Pattern Complete" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml">
@@ -389,17 +357,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Strategy Pattern/src/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="310">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
             <element signature="e#444#445#0" expanded="true" />
             <element signature="e#477#478#0" expanded="true" />
             <element signature="e#515#516#0" expanded="true" />
             <element signature="e#541#542#0" expanded="true" />
             <element signature="e#606#607#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -420,7 +394,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -455,7 +429,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Design Patterns</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
