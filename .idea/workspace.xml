@@ -1,73 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="324a27ff-1b0f-45ab-9154-1fa940fcb943" name="Default" comment=" Singleton Pattern Complete">
-      <change afterPath="$PROJECT_DIR$/Command/Command.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/RemoteControlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/SimpleRemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/command/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/command/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/command/MaCroCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/receiver/Light.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="324a27ff-1b0f-45ab-9154-1fa940fcb943" name="Default" comment="Command Pattern Complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/Decorator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/Decorator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/InputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/InputTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/LowerCaseInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/LowerCaseInputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/StarbuzzCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/StarbuzzCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/component/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/component/Beverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/component/CupSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/component/CupSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/component/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/component/Espresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/component/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/component/HouseBlend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/decorator/CondimentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/decorator/CondimentDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/decorator/Mocha.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/decorator/Mocha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/decorator/Soy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/decorator/Soy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/decorator/Whip.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/decorator/Whip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/Factory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/Factory.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/ChicagoPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/ClamPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/NYPizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/NYPizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/NYPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/PizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/PizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/PizzaTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/ingredient/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/ingredient/Cheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/ingredient/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/ingredient/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/ingredient/Clams.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/ingredient/Clams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/ingredient/Dough.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/ingredient/Dough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/ingredient/Peppereoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/ingredient/Peppereoni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/ingredient/Sauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/ingredient/Sauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/factory/ingredient/Veggies.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/factory/ingredient/Veggies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/simpleFactory/ChicagoStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/simpleFactory/ChicagoStyleCheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/simpleFactory/ChicagoVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/simpleFactory/ChicagoVeggiePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/simpleFactory/MakePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/simpleFactory/MakePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/simpleFactory/NYStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/simpleFactory/NYStyleCheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/simpleFactory/NYStyleVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/simpleFactory/NYStyleVeggiePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/simpleFactory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/simpleFactory/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/simpleFactory/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/simpleFactory/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/simpleFactory/SimplePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/simpleFactory/SimplePizzaFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Observer/src/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/src/CurrentConditionsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Observer/src/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/src/DisplayElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Observer/src/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/src/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Observer/src/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/src/WeatherStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Singleton/Singleton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Singleton/Singleton.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Singleton/src/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/Singleton/src/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Singleton/src/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Singleton/src/Singleton2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Singleton/src/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Singleton/src/Singleton3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/MiniDuckSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/behavior/fly/FlyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/behavior/fly/FlyBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/behavior/fly/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/behavior/fly/FlyNoWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/behavior/fly/FlyWithWings.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/behavior/fly/FlyWithWings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/behavior/quack/MuteQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/behavior/quack/MuteQuack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/behavior/quack/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/behavior/quack/Quack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/behavior/quack/QuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/behavior/quack/QuackBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/behavior/quack/Squeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/behavior/quack/Squeak.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -136,12 +71,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="1879" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="1879" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -151,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Command/src/RemoteControl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="56" selection-start-line="56" selection-end-line="58" selection-end-column="9" />
+            <state relative-caret-position="357">
+              <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1329#1330#0" expanded="true" />
@@ -253,9 +190,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="227" />
-    <option name="y" value="98" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="143" />
+    <option name="y" value="83" />
     <option name="width" value="1360" />
     <option name="height" value="921" />
   </component>
@@ -305,7 +242,7 @@
     <property name="SearchEverywhereHistoryKey" value="remotecontro&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/RemoteControl.java&#10;test&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/RemoteControlTest.java&#10;command&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/command/Command.java&#10;PizzaStore&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Factory/src/factory/PizzaStore.java&#10;pizzastor&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Factory/src/simpleFactory/PizzaStore.java&#10;read&#9;PSI&#9;JAVA://LowerCaseInputStream#read&#10;Sta&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Decorator/src/StarbuzzCoffee.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532832608996" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532832708114" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -459,7 +396,7 @@
       <workItem from="1532743762934" duration="1518000" />
       <workItem from="1532755574496" duration="409000" />
       <workItem from="1532791646630" duration="224000" />
-      <workItem from="1532825221222" duration="5320000" />
+      <workItem from="1532825221222" duration="6009000" />
     </task>
     <task id="LOCAL-00001" summary="Strategy Pattern Complete">
       <created>1532448226689</created>
@@ -496,11 +433,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532755790246</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Command Pattern Complete">
+      <created>1532832647092</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1532832647092</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30601000" />
+    <option name="totallyTimeSpent" value="31290000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -512,10 +456,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="143" y="83" width="1360" height="921" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.16567728" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.22573529" />
       <window_info id="Structure" order="1" sideWeight="0.50151974" side_tool="true" weight="0.1609375" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -525,7 +469,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299389" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27531645" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39873418" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39873418" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299389" />
@@ -533,7 +477,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.33825338" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3297362" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32700422" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.38083538" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -552,12 +496,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Strategy Pattern Complete" />
     <MESSAGE value="Observer Pattern Complete" />
     <MESSAGE value="Decorator Pattern Complete" />
     <MESSAGE value=" Factory Pattern Complete" />
     <MESSAGE value=" Singleton Pattern Complete" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Singleton Pattern Complete" />
+    <MESSAGE value="Command Pattern Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Command Pattern Complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -567,12 +514,6 @@
           <line>13</line>
           <properties />
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Command/src/RemoteControl.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -929,8 +870,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Command/src/RemoteControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="56" selection-start-line="56" selection-end-line="58" selection-end-column="9" />
+        <state relative-caret-position="357">
+          <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1329#1330#0" expanded="true" />
