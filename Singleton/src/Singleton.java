@@ -10,6 +10,7 @@ public class Singleton {
                     uniqueInstance = new Singleton();
             }
         }
+        System.out.println();
         return uniqueInstance;
     }
 }
