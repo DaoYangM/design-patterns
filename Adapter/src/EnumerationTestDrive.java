@@ -8,6 +8,5 @@ public class EnumerationTestDrive {
         Stack<Integer> stack = new Stack<>();
         EnumerationIterator<Integer> enumerationIterator = new EnumerationIterator<>(stack.elements());
 
-        ArrayList arrayList = new ArrayList();
     }
 }
