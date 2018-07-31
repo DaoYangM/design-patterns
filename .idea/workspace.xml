@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="324a27ff-1b0f-45ab-9154-1fa940fcb943" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateMethod/src/BeverageTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateMethod/src/CaffeineBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateMethod/src/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateMethod/src/Tea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Adapter/src/EnumerationTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter/src/EnumerationTestDrive.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,14 +93,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EnumerationTestDrive.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Adapter/src/EnumerationTestDrive.java">
+      <file leaf-file-name="Window.java" pinned="false" current-in-tab="true">
+        <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/awt/Window.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="247">
+              <caret line="3892" column="16" selection-start-line="3892" selection-start-column="16" selection-end-line="3892" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -108,6 +110,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JavaFXApplication" />
       </list>
     </option>
   </component>
@@ -131,11 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Decorator/src/LowerCaseInputStream.java" />
-        <option value="$PROJECT_DIR$/Decorator/src/test.txt" />
-        <option value="$PROJECT_DIR$/Decorator/src/decorator/InputTest.java" />
-        <option value="$PROJECT_DIR$/Decorator/src/StarbuzzCoffee.java" />
-        <option value="$PROJECT_DIR$/Decorator/src/InputTest.java" />
         <option value="$PROJECT_DIR$/Factory/src/simpleFactory/NYStyleCheesePizza.java" />
         <option value="$PROJECT_DIR$/Factory/src/simpleFactory/SimplePizzaFactory.java" />
         <option value="$PROJECT_DIR$/Factory/src/simpleFactory/PizzaStore.java" />
@@ -182,6 +180,11 @@
         <option value="$PROJECT_DIR$/Adapter/src/DockTestDrive.java" />
         <option value="$PROJECT_DIR$/Adapter/src/EnumerationIterator.java" />
         <option value="$PROJECT_DIR$/Adapter/src/EnumerationTestDrive.java" />
+        <option value="$PROJECT_DIR$/TemplateMethod/src/CaffeinBeverage.java" />
+        <option value="$PROJECT_DIR$/TemplateMethod/src/CaffeineBeverage.java" />
+        <option value="$PROJECT_DIR$/TemplateMethod/src/BeverageTestDrive.java" />
+        <option value="$PROJECT_DIR$/TemplateMethod/src/Tea.java" />
+        <option value="$PROJECT_DIR$/TemplateMethod/src/MyFrame.java" />
       </list>
     </option>
   </component>
@@ -205,9 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,14 +244,28 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="behavior" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Design Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="TemplateMethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="TemplateMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="remotecontro&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/RemoteControl.java&#10;test&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/RemoteControlTest.java&#10;command&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/command/Command.java&#10;PizzaStore&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Factory/src/factory/PizzaStore.java&#10;pizzastor&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Factory/src/simpleFactory/PizzaStore.java&#10;read&#9;PSI&#9;JAVA://LowerCaseInputStream#read&#10;Sta&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Decorator/src/StarbuzzCoffee.java" />
+    <property name="SearchEverywhereHistoryKey" value="drive&#9;FILE&#9;file://D:/Code/Java/Design Patterns/TemplateMethod/src/BeverageTestDrive.java&#10;remotecontro&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/RemoteControl.java&#10;test&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/RemoteControlTest.java&#10;command&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/command/Command.java&#10;PizzaStore&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Factory/src/factory/PizzaStore.java&#10;pizzastor&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Factory/src/simpleFactory/PizzaStore.java&#10;read&#9;PSI&#9;JAVA://LowerCaseInputStream#read&#10;Sta&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Decorator/src/StarbuzzCoffee.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532838474848" />
@@ -287,33 +301,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DockTestDrive">
+  <component name="RunManager" selected="Application.MyFrame">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BeverageTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BeverageTestDrive" />
+      <module name="TemplateMethod" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="DockTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DockTestDrive" />
       <module name="Adapter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InputTest" />
-      <module name="Decorator" />
+    <configuration name="MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFrame" />
+      <module name="TemplateMethod" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="MakePizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleFactory.MakePizza" />
-      <module name="Factory" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simpleFactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factory.PizzaTestDrive" />
@@ -382,19 +390,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InputTest" />
-      <item itemvalue="Application.MakePizza" />
       <item itemvalue="Application.PizzaTestDrive" />
       <item itemvalue="Application.RemoteControlTest" />
       <item itemvalue="Application.DockTestDrive" />
+      <item itemvalue="Application.BeverageTestDrive" />
+      <item itemvalue="Application.MyFrame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyFrame" />
+        <item itemvalue="Application.BeverageTestDrive" />
         <item itemvalue="Application.DockTestDrive" />
         <item itemvalue="Application.RemoteControlTest" />
         <item itemvalue="Application.PizzaTestDrive" />
-        <item itemvalue="Application.MakePizza" />
-        <item itemvalue="Application.InputTest" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +436,8 @@
       <workItem from="1532848549182" duration="22000" />
       <workItem from="1532873837703" duration="223000" />
       <workItem from="1532876986029" duration="362000" />
-      <workItem from="1532926666564" duration="2087000" />
+      <workItem from="1532926666564" duration="2113000" />
+      <workItem from="1533001463324" duration="2922000" />
     </task>
     <task id="LOCAL-00001" summary="Strategy Pattern Complete">
       <created>1532448226689</created>
@@ -486,11 +495,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532928719685</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adapter Pattern Complete">
+      <created>1532928763203</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1532928763203</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33984000" />
+    <option name="totallyTimeSpent" value="36932000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -502,7 +518,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="320" y="40" width="1360" height="921" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -515,13 +531,13 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2747909" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23662551" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.33825338" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49752882" visible="true" weight="0.22916667" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5619946" visible="true" weight="0.16041666" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.50247115" side_tool="true" visible="true" weight="0.22916667" />
+      <window_info id="Structure" order="1" sideWeight="0.4380054" side_tool="true" visible="true" weight="0.16041666" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -557,7 +573,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Decorator/src/decorator/CondimentDecorator.java</url>
+          <url />
           <line>13</line>
           <properties />
           <option name="timeStamp" value="1" />
@@ -566,83 +582,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Factory/src/simpleFactory/SimplePizzaFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factory/src/simpleFactory/MakePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factory/src/simpleFactory/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factory/src/simpleFactory/NYStyleVeggiePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factory/src/simpleFactory/ChicagoStyleCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factory/src/simpleFactory/ChicagoVeggiePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factory/src/factory/ingredient/Dough.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factory/src/factory/ingredient/Sauce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factory/src/factory/ingredient/Cheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factory/src/factory/ingredient/Veggies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factory/src/factory/ingredient/Peppereoni.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Factory/src/factory/ingredient/Clams.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -750,12 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,11 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1362#1363#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,9 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -913,11 +838,109 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Adapter/src/EnumerationTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TemplateMethod/src/CaffeineBeverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/io/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="156" column="24" selection-start-line="156" selection-start-column="24" selection-end-line="156" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="71" column="18" lean-forward="true" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+          <folding>
+            <element signature="e#4318#4319#0" expanded="true" />
+            <element signature="e#4357#4358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-325">
+          <caret line="105" column="30" lean-forward="true" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="30" />
+          <folding>
+            <element signature="e#3011#3012#0" expanded="true" />
+            <element signature="e#3058#3059#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TemplateMethod/src/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TemplateMethod/src/BeverageTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/javafx-src.zip!/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2603">
+          <caret line="144" column="22" selection-start-line="144" selection-start-column="22" selection-end-line="144" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/awt/HeadlessException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="569" column="52" lean-forward="true" selection-start-line="569" selection-start-column="52" selection-end-line="569" selection-end-column="52" />
+          <folding>
+            <element signature="e#26253#26254#0" expanded="true" />
+            <element signature="e#26306#26307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TemplateMethod/src/MyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_161/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="3892" column="16" selection-start-line="3892" selection-start-column="16" selection-end-line="3892" selection-end-column="16" />
         </state>
       </provider>
     </entry>
