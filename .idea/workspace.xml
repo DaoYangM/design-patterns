@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="324a27ff-1b0f-45ab-9154-1fa940fcb943" name="Default" comment="State Pattern Complete">
-      <change afterPath="$PROJECT_DIR$/Proxy/Proxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/DP/MatchMakingTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/DP/NonOwnerInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/DP/OwnerInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/DP/PersonBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/DP/PersonBeanImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/MyRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/MyRemoteClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/MyRemoteImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/src/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/src/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="324a27ff-1b0f-45ab-9154-1fa940fcb943" name="Default" comment="Proxy Pattern Complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,13 +47,13 @@
         <counts>
           <entry key="dummy" value="2" />
           <entry key="java" value="9136" />
-          <entry key="txt" value="47" />
+          <entry key="txt" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="9136" />
-          <entry key="PLAIN_TEXT" value="49" />
+          <entry key="PLAIN_TEXT" value="57" />
         </counts>
       </usages-collector>
     </session>
@@ -106,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Proxy/src/DP/OwnerInvocationHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+            <state relative-caret-position="307">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#251#252#0" expanded="true" />
@@ -232,24 +220,6 @@
               <item name="Design Patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design Patterns" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Design Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DP" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -261,7 +231,7 @@
     <property name="SearchEverywhereHistoryKey" value="Gu&#9;FILE&#9;file://D:/Code/Java/Design Patterns/State/src/GumballMachine.java&#10;state&#9;FILE&#9;file://D:/Code/Java/Design Patterns/State/src/State.java&#10;Gum&#9;FILE&#9;file://D:/Code/Java/Design Patterns/State/src/GumballMachine.java&#10;drive&#9;FILE&#9;file://D:/Code/Java/Design Patterns/TemplateMethod/src/BeverageTestDrive.java&#10;remotecontro&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/RemoteControl.java&#10;test&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/RemoteControlTest.java&#10;command&#9;FILE&#9;file:///media/ye/524E81CE4E81AAF5/Code/Java/Design Patterns/Command/src/command/Command.java&#10;PizzaStore&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Factory/src/factory/PizzaStore.java&#10;pizzastor&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Factory/src/simpleFactory/PizzaStore.java&#10;read&#9;PSI&#9;JAVA://LowerCaseInputStream#read&#10;Sta&#9;FILE&#9;file://D:/Code/Java/Design Patterns/Decorator/src/StarbuzzCoffee.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533262749159" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533262805859" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -443,7 +413,7 @@
       <workItem from="1533176715066" duration="4561000" />
       <workItem from="1533183828774" duration="23000" />
       <workItem from="1533193562452" duration="1675000" />
-      <workItem from="1533252720047" duration="6269000" />
+      <workItem from="1533252720047" duration="6326000" />
     </task>
     <task id="LOCAL-00001" summary="Strategy Pattern Complete">
       <created>1532448226689</created>
@@ -529,11 +499,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533180652501</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Proxy Pattern Complete">
+      <created>1533262771858</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1533262771858</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64994000" />
+    <option name="totallyTimeSpent" value="65051000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -546,9 +523,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5442561" visible="true" weight="0.16041666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5442561" visible="true" weight="0.16041666" />
       <window_info id="Structure" order="1" sideWeight="0.45574388" side_tool="true" visible="true" weight="0.16041666" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -558,7 +534,7 @@
       <window_info anchor="bottom" id="Application Servers" weight="0.33865032" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297491" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4537037" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4537037" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39814815" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -598,7 +574,8 @@
     <MESSAGE value="Pattern Method Pattern Complete" />
     <MESSAGE value="Iterator Pattern Complete" />
     <MESSAGE value="State Pattern Complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="State Pattern Complete" />
+    <MESSAGE value="Proxy Pattern Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proxy Pattern Complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1011,8 +988,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Proxy/src/DP/OwnerInvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        <state relative-caret-position="307">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#251#252#0" expanded="true" />
